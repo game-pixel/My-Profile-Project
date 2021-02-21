@@ -1,0 +1,18 @@
+.rounded-circle{
+    width: 150px;
+    height: 150px;
+    
+}
+
+.jumbotron{
+    margin-bottom: 0;
+}
+
+#about{
+    background-color: lightblue;
+}
+
+#footer{
+    background-color: lightblue;
+}
+
